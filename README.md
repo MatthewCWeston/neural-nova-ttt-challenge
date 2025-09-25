@@ -61,6 +61,14 @@ Tie  : 0.3200
 ## My results, when running my solution, were as follows:
 
 ```
+0  31b7349c  RUNNING 0 days 01:29:14  0.979  0.019  0.001    117
+1  6a00f222  RUNNING 0 days 01:28:25  0.902  0.090  0.008    116 # this one turned out best
+2  bb97dc4c  RUNNING 0 days 01:28:52  0.851  0.025  0.124    117
+3  ac419e2f  RUNNING 0 days 01:28:31  0.700  0.056  0.244    115
+4  9b197b43  RUNNING 0 days 01:29:28  0.512  0.434  0.054    116
+```
+
+```
 Model is O:
 Games Played: 587
 Model Loses: 0
