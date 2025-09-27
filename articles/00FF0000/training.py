@@ -19,7 +19,7 @@ from ray.tune.search.hyperopt import HyperOptSearch
 from ray.tune.search import ConcurrencyLimiter
 
 from custom_metric import Outcomes
-from enviornment import MultiAgentTicTacToe
+from environment import MultiAgentTicTacToe
 from shared.ray.progress_report import CustomReporter
 from ray.rllib.examples.rl_modules.classes.action_masking_rlm import (
     ActionMaskingTorchRLModule,
